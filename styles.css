@@ -26,12 +26,12 @@ ol {
 /* Navbar */
 
 .navbar {
-    background-color: #020617;
+    background-color: #448cbd;
     padding: 5px;
     border-radius: 10px;
 }
 
-.navbar menu {
+.navbar ul {
     list-style: none;
     margin: 0;
     padding: 0;
